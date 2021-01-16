@@ -1,0 +1,1 @@
+This script will retrieve LAPS password from active directory for all the computer objects. It will export computername, operating system, distinguished name and laps password in a CSV file. For computer objects where LAPS is not configured, the password field will be blank. This will also help in finding out in which all machines LAPS has not been configured.
